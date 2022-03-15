@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96156123594",
+    "project_id": "airway-b30e5",
+    "storage_bucket": "airway-b30e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96156123594:android:296f947e8d932a2ce44f33",
+        "android_client_info": {
+          "package_name": "com.abhaychaudhary.airway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96156123594-kkmkc9rbpnl1b4a0rhpmlshbgpi596pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhaychaudhary.airway",
+            "certificate_hash": "167143a690a1da32937bc2b4bbeecb20b3d5e94f"
+          }
+        },
+        {
+          "client_id": "96156123594-shrputeo90b3o7fqif1rjs2hekub2vr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0o_SeqfRd-340VEy5JNHWOMwBBleMXMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96156123594-shrputeo90b3o7fqif1rjs2hekub2vr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

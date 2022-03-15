@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/ic_launcher_foreground_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/messageback.xml" value="0.2703125" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/recieverchatdrawable.xml" value="0.2703125" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/drawable/senderchatdrawable.xml" value="0.2703125" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_chat.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_main.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_otp_auth.xml" value="0.264" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_profile.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_set_profile.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_specificchat.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_splashscreen.xml" value="0.264" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/activity_updateprofile.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/callfragment.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/chatfragment.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/chatviewlayout.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_blank.xml" value="0.22056159420289856" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_call.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_callfragment.xml" value="0.22056159420289856" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_chat.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_chatfragment.xml" value="0.22056159420289856" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_pager.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_status.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/fragment_statusfragment.xml" value="0.22056159420289856" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/recieverchatlayout.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/senderchatlayout.xml" value="0.264" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/layout/status.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/Abhay/AndroidStudioProjects/Airway/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
